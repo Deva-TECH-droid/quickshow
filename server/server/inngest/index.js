@@ -235,8 +235,8 @@ export const functions = [
   syncUserCreation,
   syncUserDeletion,
   syncUserUpdation,
-  // releaseSeatsAndDeleteBooking,
-  // sendBookingConfirmationEmail,
-  // sendShowReminders,
-  // sendNewShowNotifications,
+  releaseSeatsAndDeleteBooking,
+  sendBookingConfirmationEmail,
+  sendShowReminders,
+  sendNewShowNotifications,
 ];
